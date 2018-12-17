@@ -1,0 +1,2 @@
+Downloaded from https://github.com/contrem/arduino-timer
+commit 26bec18e487c69a41a1bc6c0f1a3cef9efca8cd0 from 2018-10-12
